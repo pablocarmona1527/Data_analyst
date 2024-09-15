@@ -14,7 +14,14 @@ En este dataset se encuentra información de los shows y películas de Netflix p
 * El mejor modelo fue el de Random Forest Classifier con un puntaje recall de 0.69, es decir, predijo correctamente el 69% de los datos.
 * Las variables que más influyen para calcular la cantidad de temporadas son el actor principal (23.12%) y la categoría principal del show (19.99%).
 * La información podría ser de ayuda para Netflix en su selección de actores y categoría de cada show para estimar el potencial de éxito de sus shows de TV.
-
+### Información adicional:
+* El dataset tiene 8807 registros y 12 columnas.
+* Hay casi 3 veces más películas que shows de TV.
+* Estados Unidos, India y Reino Unido son los mayores productores de shows.
+* Menos del 30% de los shows de TV consiguen una segunda temporadas.
+* Las categorías con más shows son Dramas, comedias y shows internacionales.
+* Entre 2016 y 2020 fue donde más shows se estrenaron.
+* Estados Unidos es el país con mayor producción de Documentales, dramas y comedias.
 ## Space missions
 En este dataset se tiene información de las misiones espaciales desde 1957 por parte de diversas compañías espaciales. Se tiene información del ligar de lanzamiento del cohete, nombre del cohete, dinero invertido, estado del cohete y resultado de la misión.
 ### Conclusiones
