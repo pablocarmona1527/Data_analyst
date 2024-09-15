@@ -3,11 +3,14 @@
 Este repositorio está enfocado en el análisis y ciencia de datos con Python. Se lleva a cabo el proceso ETL ( Extraction, Transformation and Load) mediante herramientas como MySQL, Python y Power BI para la obtención, limpieza, procesamiento y visualización de datos.
 
 **NOTA**: Algunos análisis siguen en construcción y continuamente serán actualizados.
+## Housing Colombia
+Este dataset tiene información 
 
-## Datasets analizados
-### Housing Colombia
+### Conclusiones
 
-### Netflix Titles
+### Información adicional
+
+## Netflix Titles
 En este dataset se encuentra información de los shows y películas de Netflix por año de estreno y año de adición al catálogo. Además, se tiene información del Rating de cada show y película.
 ### Conclusiones
 * Fueron usados 7 modelos de Machine Learning para predecir la cantidad de temporadas que tendría un Show de TV de Netflix a partir del actor principal, país del show, director, rating, entre otras variables.
@@ -37,8 +40,8 @@ En este dataset se tiene información de las misiones espaciales desde 1957 por 
 * Los países que más dinero han invertido en misiones son USA, Rusia y Kazakhstan.
 * Típicamente n los meses de noviembre y diciembre se lanzan misiones con mayor costo.
 
-### Amazon products
+## Amazon products
 Este dataset  tiene información de más de 500 mil productos de Amazon con información de la categoría, el precio real, el precio de descuento, la calificación de cada producto, entre otras características.
 
-##### Análisis hechos
+### Análisis hechos
 
