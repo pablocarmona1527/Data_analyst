@@ -27,6 +27,10 @@ En este dataset se encuentra información de los shows y películas de Netflix p
 * Entre 2016 y 2020 fue donde más shows se estrenaron.
 * Estados Unidos es el país con mayor producción de Documentales, dramas y comedias.
 
+**Dashboard en Power BI**
+
+![](https://github.com/pablocarmona1527/Data_analyst/blob/main/netflix.png)
+
 ## [Space missions](https://github.com/pablocarmona1527/Data_analyst/blob/main/mission_launches.csv)
 En este dataset se tiene información de las misiones espaciales desde 1957 por parte de diversas compañías espaciales. Se tiene información del ligar de lanzamiento del cohete, nombre del cohete, dinero invertido, estado del cohete y resultado de la misión.
 ### Conclusiones
