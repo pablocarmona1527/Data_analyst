@@ -4,12 +4,6 @@ Este repositorio está enfocado en el análisis y ciencia de datos con Python. S
 
 **NOTA**: Algunos análisis siguen en construcción y continuamente serán actualizados.
 
-** Tabla de contenido**
-
-[TOCM]
-
-[TOC]
-
 ## [Housing Colombia](https://www.kaggle.com/datasets/julianusugaortiz/colombia-housing-properties-price)
 Este dataset tiene información del precio, área construida, cantidad de habitaciones, ubicación, descripción, entre otras características de 1 millón de inmuebles en Colombia durante 2020 y 2021.
 
