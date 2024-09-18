@@ -47,7 +47,7 @@ En este dataset se tiene información de las misiones espaciales desde 1957 por 
 * Típicamente n los meses de noviembre y diciembre se lanzan misiones con mayor costo.
 
 **Dashboard en Power BI**
-
+![](https://github.com/pablocarmona1527/Data_analyst/blob/main/space_dashboard.png)
 
 ## [Amazon products](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)
 Este dataset  tiene información de más de 500 mil productos de Amazon con información de la categoría, el precio real, el precio de descuento, la calificación de cada producto, entre otras características.
