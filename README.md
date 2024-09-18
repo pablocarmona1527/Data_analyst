@@ -45,6 +45,10 @@ En este dataset se tiene información de las misiones espaciales desde 1957 por 
 * Las compañías que más misiones exitosas han lanzado son RVSN URSS, Arianespace y CASC.
 * Los países que más dinero han invertido en misiones son USA, Rusia y Kazakhstan.
 * Típicamente n los meses de noviembre y diciembre se lanzan misiones con mayor costo.
+
+**Dashboard en Power BI**
+
+
 ## [Amazon products](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)
 Este dataset  tiene información de más de 500 mil productos de Amazon con información de la categoría, el precio real, el precio de descuento, la calificación de cada producto, entre otras características.
 
