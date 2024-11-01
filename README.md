@@ -57,7 +57,7 @@ Este dataset tiene información del precio, área construida, cantidad de habita
 * El 56.53% de los inmuebles son apartamentos, seguido por casas (22.02%).
 * Los lotes tienen el precio de renta promedio más alto mientras que los locales comerciales tienen el precio de venta promedio más alto.
 * Bucaramanga y Cali tienen el menor precio de renta en apartamentos promedio.
-* 
+  
 **Dashboard en Power BI**
 
 ![](https://github.com/pablocarmona1527/Data_analyst/blob/main/housing_colombia/plantilla_housing.png) 
