@@ -4,6 +4,25 @@ Este repositorio está enfocado en el análisis y ciencia de datos con Python. S
 
 **NOTA**: Algunos análisis siguen en construcción y continuamente serán actualizados.
 
+## [Intentos de suicidio en Medellín](https://github.com/pablocarmona1527/Data_analyst/blob/main/suicidios_colombia/intento_suicidio.csv)
+## Conclusiones
+* Fue implementado un proceso de Machine Learning mediante eliminación recursiva de características con validación cruzada (RFECV) a 5 modelos de clasificación para predecir si una persona fallece tras un intento de suicidio.
+* Los mejores modelos fueron Xtreme Gradient Boosting, Linear Support Vector Machine y Logistic Regression.
+* Dichos modelos fueron sometidos a validación de hiperparámetros y todos consiguieron puntajes f1 muy similares.
+* El mejor puntaje fue 0.78 lo cual indica que el 78% de los datos fueron clasificados correctamente. 
+* Estos modelos pueden ser usados para determinar si una persona con problemas familiares, problemas de pareja o recibe acompañamiento psicológico es propensa a cometer un intento de suicidio.
+
+## Información adicional
+* El dataset inicial tiene 18507 filas y 19 columnas.
+* Las mujeres llevan a cabo casi el doble de intentos de suicidio.
+* Robledo es la comuna donde más intentos de suicidio hubo.
+* Septiembre y marzo son los meses donde más intentos de suicidio se llevan a cabo.
+* Los estratos 2 y 3 presentan la mayor cantidad de intentos de suicidio.
+* Las personas que ya han intentado suicidarse son propensas a intentarlo de nuevo.
+
+**Dashboard en Power BI**
+![](https://github.com/pablocarmona1527/Data_analyst/blob/main/suicidios_colombia/dashboard_suicidios.jpg)
+
 ## [Netflix Titles](https://github.com/pablocarmona1527/Data_analyst/blob/main/netflix_titles.csv)
 En este dataset se encuentra información de los shows y películas de Netflix por año de estreno y año de adición al catálogo. Además, se tiene información del Rating de cada show y película. 
 ### Conclusiones
