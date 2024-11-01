@@ -22,7 +22,7 @@ En este dataset se encuentra información de los shows y películas de Netflix p
 
 **Dashboard en Power BI**
 
-![](https://github.com/pablocarmona1527/Data_analyst/blob/main/netflix.png)
+![](https://github.com/pablocarmona1527/Data_analyst/blob/main/netflix_titles/netflix.png)
 
 ## [Space missions](https://github.com/pablocarmona1527/Data_analyst/blob/main/mission_launches.csv)
 En este dataset se tiene información de las misiones espaciales desde 1957 por parte de diversas compañías espaciales. Se tiene información del ligar de lanzamiento del cohete, nombre del cohete, dinero invertido, estado del cohete y resultado de la misión.
@@ -40,7 +40,7 @@ En este dataset se tiene información de las misiones espaciales desde 1957 por 
 * Típicamente n los meses de noviembre y diciembre se lanzan misiones con mayor costo.
 
 **Dashboard en Power BI**
-![](https://github.com/pablocarmona1527/Data_analyst/blob/main/space_dashboard.png)
+![](https://github.com/pablocarmona1527/Data_analyst/blob/main/space_missions/space_dashboard.png)
 
 ## [Housing Colombia](https://www.kaggle.com/datasets/julianusugaortiz/colombia-housing-properties-price)
 Este dataset tiene información del precio, área construida, cantidad de habitaciones, ubicación, descripción, entre otras características de 1 millón de inmuebles en Colombia durante 2020 y 2021.
@@ -57,10 +57,10 @@ Este dataset tiene información del precio, área construida, cantidad de habita
 * El 56.53% de los inmuebles son apartamentos, seguido por casas (22.02%).
 * Los lotes tienen el precio de renta promedio más alto mientras que los locales comerciales tienen el precio de venta promedio más alto.
 * Bucaramanga y Cali tienen el menor precio de renta en apartamentos promedio.
-* 
+  
 **Dashboard en Power BI**
 
-![](https://github.com/pablocarmona1527/Data_analyst/blob/main/plantilla_housing.png) 
+![](https://github.com/pablocarmona1527/Data_analyst/blob/main/housing_colombia/plantilla_housing.png) 
 
 ## [Amazon products](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)
 Este dataset  tiene información de más de 500 mil productos de Amazon con información de la categoría, el precio real, el precio de descuento, la calificación de cada producto, entre otras características.
