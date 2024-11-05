@@ -84,5 +84,21 @@ Este dataset tiene información del precio, área construida, cantidad de habita
 ## [Amazon products](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)
 Este dataset  tiene información de más de 500 mil productos de Amazon con información de la categoría, el precio real, el precio de descuento, la calificación de cada producto, entre otras características.
 
-### Análisis hechos
+
+##[Vuelos en India](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction/data)
+Este dataset tiene información de más de 300 mil vuelos registrados en India entre sus principales ciudades. Se tiene informacion del precio de cada vuelo, la clase, la ciudad de salida y llegada, la hora de salida y llegada, la cantidad de paradas y la duración de cada vuelo.
+
+### Conclusiones
+* Fueron usados 7 modelos de regresión (Linear regression, Ridge, Lasso, Elastic Net, Decission Tree, Random Forest, Support Vector Machine) para predecir el precio de los vuelos de clase económica a partir de la aerolínea, la ciudad de salida y de llegada, la hora de salida y llegada, la cantidad de paradas y la duración del vuelo.
+* Inicialmente el mejor modelo fue Random Forest con un R2 de 0.727. Este modelo fue ajustado mediante eliminación recursiva de características (RFECV) y GridSearch para mejorar su rendimiento. Luego de eso obtuvo un R2 de 0.74.
+* Las características más importantes para predecir el precio de la clase económica son la duración y los días fuera.
+### Información adicional
+* El Dataset tiene 300153 filas y 19 columnas útiles.
+* Las aerolíneas Air India y Vitara tienen los precios promedio más elevados.
+* La mayoría de vuelos son entre Mumbai, Delhi y Bangalore
+* La aerolínea Vistara realiza el 42.6% del total de vuelos. Pero NO tiene vuelos con hora de salida en la tarde.
+* Solo el 0.43% de los vuelos salen tarde en la noche.
+* Más del 80% de los vuelos tienen por lo menos una parada.
+* En promedio los vuelos más largos son de Kolkata a Chennai. Y los más cortos son de Mumbai y Bangalore a Delhi
+
 
